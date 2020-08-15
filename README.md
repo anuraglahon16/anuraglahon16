@@ -17,7 +17,7 @@ I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, a student at 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraglahon16&layout=compact&theme=radical)](https://github.com/anuraglahon16/github-readme-stats)
 ### :gear: My skills include:
 
-- **Languages**: `Python`, `R`, `HTML | CSS |JS` ,'C++','C'
+- **Languages**: `Python`, `R`, `HTML | CSS |JS` ,`C++`,`C`
 
 - **Databases**: `MySQL`, `MongoDB`
 
