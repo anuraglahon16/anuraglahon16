@@ -14,7 +14,7 @@ I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, a student at 
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraglahon16&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraglahon16&layout=compact)](https://github.com/anuraglahon16/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraglahon16&layout=compact&theme=radical)](https://github.com/anuraglahon16/github-readme-stats)
 ### :gear: My skills include:
 
 - **Languages**: `Python`, `R`, `HTML | CSS |JS` ,'C++','C'
