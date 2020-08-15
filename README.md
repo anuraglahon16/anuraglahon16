@@ -17,7 +17,7 @@ I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, a student at 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraglahon16&layout=compact)](https://github.com/anuraglahon16/github-readme-stats)
 ### :gear: My skills include:
 
-- **Languages**: `Python`, `R`, `HTML / CSS / JS`
+- **Languages**: `Python`, `R`, `HTML | CSS |JS` ,'C++','C'
 
 - **Databases**: `MySQL`, `MongoDB`
 
@@ -25,18 +25,18 @@ I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, a student at 
 
 - **Deep Learning**
 
-- **Probability and statistics**
+- **Technologies**: MS Office, Git, Anaconda, RStudio
 
 - **Operating System**: `Linux`, `Windows`
 
 
 - 🔭 I’m currently working on NLP.
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Data Science and AWS.
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 I’m looking for help with Data Science / Business Analytics internship.
 - 📫 How to reach me: Connect with me on [**Linkedin**](https://www.linkedin.com/in/anurag-lahon/)
-- 😄 Pronouns: Data Science | Machine Learning | Business Analytics
-- ⚡ Fun fact: I like to vlog. 😄 
+- 😄 Pronouns: Data Science | Machine Learning | Business Analytics | Deep Learning
+- ⚡ Fun fact: I like to vlog and hike. 😄 
 
 <br />
 
