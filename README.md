@@ -49,7 +49,7 @@ I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, a student at 
 
 
 
-- 🔭 I’m currently working on NLP.
+- 🔭 I’m currently working on NLP and Analytics Problem.
 - 🌱 I’m currently learning Data Science and AWS.
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 I’m looking for help with Data Science / Business Analytics internship.
