@@ -30,6 +30,25 @@ I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, a student at 
 - **Operating System**: `Linux`, `Windows`
 
 
+<img align="left" alt="Python" height="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="R" height ="26px" src="https://github.com/anuraglahon16/Final-Project-R/blob/master/images/download.png"/>
+<img align="left" alt="Tableau" height="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png" />
+<img align="left" alt="HTML" height="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img align="left" alt="CSS" height="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="JS" height="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img align="left" alt="SQL" height="26px" src="https://img.icons8.com/color/48/000000/sql.png" />
+<img align="left" alt="C" height="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="C++" height="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="Github" height="26px" src="https://img.icons8.com/color/48/000000/github.png" />
+
+
+
+<br />
+<br />
+
+
+
 - 🔭 I’m currently working on NLP.
 - 🌱 I’m currently learning Data Science and AWS.
 - 👯 I’m looking to collaborate on Data Science Projects.
