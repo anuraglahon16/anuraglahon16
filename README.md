@@ -61,9 +61,4 @@ I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, a student at 
 ### You can read my blogs on [**Medium**](https://medium.com/@anuraglahonmba)
  
 
-### :handshake: Always happy to help!
-
-
-### :hugs: Thank You!
-
-Thank you so much  :v:
+Thank you so much for visiting  :v:
