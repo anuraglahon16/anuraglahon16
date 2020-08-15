@@ -8,7 +8,7 @@ I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, a student at 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@anurag-lahon&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/anurag-lahon/)
  [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=@anurag_.ai&logo=Instagram&style=flat&color=pink)](https://www.instagram.com/anurag_.ai)
  [![Facebook](https://img.shields.io/static/v1.svg?label=Facebook&message=@anurag.lahon&logo=Facebook&style=flat&color=blue)](https://www.facebook.com/anurag.lahon)
- [![Medium](https://img.shields.io/static/v1.svg?label=Medium&message=@anuraglahonmba&logo=Medium&style=flat&color=blue)](https://medium.com/@anuraglahonmba)
+ [![Medium](https://img.shields.io/static/v1.svg?label=Medium&message=@anuraglahonmba&logo=Medium&style=flat&color=black)](https://medium.com/@anuraglahonmba)
  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraglahon16&show_icons=true&theme=radical)
