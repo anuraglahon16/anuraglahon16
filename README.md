@@ -34,7 +34,7 @@ I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, a student at 
 - 🌱 I’m currently learning Data Science and AWS.
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 I’m looking for help with Data Science / Business Analytics internship.
-- 📫 How to reach me: Connect with me on [**Linkedin**](https://www.linkedin.com/in/anurag-lahon/)
+- 📫 How to reach me: Connect with me on [**Linkedin**](https://www.linkedin.com/in/anurag-lahon/) or anuraglahondp@gmail.com
 - 😄 Pronouns: Data Science | Machine Learning | Business Analytics | Deep Learning
 - ⚡ Fun fact: I like to vlog and hike. 😄 
 
