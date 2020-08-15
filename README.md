@@ -6,8 +6,6 @@
 I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, a student at University of Colorado Business School ,Denver pursuing MS in Business Analytics who loves to analyze and building products.Passionate about applying mathematical algorithms to tackle real world problems that help shape business strategies.I am working on unstructured data analytics and using machine learning techniques to solve big data problems. **You can find me on [LinkedIn](https://www.linkedin.com/in/anurag-lahon/)**.
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@anurag-lahon&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/anurag-lahon/)
- [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=@anurag_.ai&logo=Instagram&style=flat&color=pink)](https://www.instagram.com/anurag_.ai)
- [![Facebook](https://img.shields.io/static/v1.svg?label=Facebook&message=@anurag.lahon&logo=Facebook&style=flat&color=blue)](https://www.facebook.com/anurag.lahon)
  [![Medium](https://img.shields.io/static/v1.svg?label=Medium&message=@anuraglahonmba&logo=Medium&style=flat&color=black)](https://medium.com/@anuraglahonmba)
  [![Quora](https://img.shields.io/static/v1.svg?label=Quora&message=@Anurag-Lahon&logo=Quora&style=flat&color=red)](https://www.quora.com/profile/Anurag-Lahon)
  [![Twitter](https://img.shields.io/static/v1.svg?label=Twitter&message=@AnuragLahon&logo=Twitter&style=flat&color=blue)](https://twitter.com/AnuragLahon)
