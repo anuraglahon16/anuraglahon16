@@ -21,9 +21,9 @@ I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, a student at 
 
 - **Databases**: `MySQL`, `MongoDB`
 
-- **Machine Learning**
+- **Data Science** : 'Machine Learning (Supervised and Unsupervised)', 'Deep Learning' and 'Natural Language Processing'
 
-- **Deep Learning**
+- **Data Visualisation**: 'Tableau', 'Power BI'
 
 - **Technologies**: MS Office, Git, Anaconda, RStudio
 
