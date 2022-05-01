@@ -3,7 +3,7 @@
 <!--
 **anuraglahon16/anuraglahon16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, a student at University of Colorado Business School ,Denver pursuing MS in Business Analytics who loves to analyze and building products.Passionate about applying mathematical algorithms to tackle real world problems that help shape business strategies.I am working on unstructured data analytics and using machine learning techniques to solve big data problems. **You can find me on [LinkedIn](https://www.linkedin.com/in/anurag-lahon/)**.
+I'm **[Anurag Lahon](https://www.linkedin.com/in/anurag-lahon/)**, graduated with MS in Business Analytics from University of Colorado Business School ,Denver   who loves to analyze and building products.Passionate about applying mathematical algorithms to tackle real world problems that help shape business strategies.Looking for right opportunities to leverage my python and data science skills. **You can find me on [LinkedIn](https://www.linkedin.com/in/anurag-lahon/)**.
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@anurag-lahon&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/anurag-lahon/)
  [![Medium](https://img.shields.io/static/v1.svg?label=Medium&message=@anuraglahonmba&logo=Medium&style=flat&color=black)](https://medium.com/@anuraglahonmba)
